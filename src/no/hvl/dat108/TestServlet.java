@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import no.hvl.dat108.model.Deltager;
 import no.hvl.dat108.persistence.DeltagerEAO;
 
-@WebServlet("/index")
+@WebServlet("/test")
 public class TestServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	@EJB
